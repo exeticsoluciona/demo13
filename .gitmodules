@@ -1,0 +1,4 @@
+[submodule "rrhh"]
+	path = rrhh
+	url = git@github.com:exeticsoluciona/rrhh.git
+	branch = 13.0
